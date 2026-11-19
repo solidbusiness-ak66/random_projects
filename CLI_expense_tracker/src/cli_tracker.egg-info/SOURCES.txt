@@ -1,0 +1,9 @@
+pyproject.toml
+src/cli_tracker/__init__.py
+src/cli_tracker/functions.py
+src/cli_tracker.egg-info/PKG-INFO
+src/cli_tracker.egg-info/SOURCES.txt
+src/cli_tracker.egg-info/dependency_links.txt
+src/cli_tracker.egg-info/requires.txt
+src/cli_tracker.egg-info/top_level.txt
+tests/test_fun.py

@@ -1,0 +1,16 @@
+[
+    {
+        "id": 2,
+        "amt": "200.00",
+        "typeof": "Shopping",
+        "description": "Notebook",
+        "date": "2026-10-15"
+    },
+    {
+        "id": 3,
+        "amt": "200.00",
+        "typeof": "Shopping",
+        "description": "Notebook",
+        "date": "2026-10-15"
+    }
+]
